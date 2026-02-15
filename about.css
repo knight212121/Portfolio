@@ -1,8 +1,14 @@
-.whoami {
+.title {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    color: #cdd6f4;
+    width: 100%;
     color: #f38ba8;
 }
 
-.card {
+.whoami {
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem;
